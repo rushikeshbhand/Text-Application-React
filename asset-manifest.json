@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rushikeshbhand/Text-Application-React.git/static/css/main.f855e6bc.css",
+    "main.js": "/rushikeshbhand/Text-Application-React.git/static/js/main.1e00b1cc.js",
+    "static/js/592.b31fc3b2.chunk.js": "/rushikeshbhand/Text-Application-React.git/static/js/592.b31fc3b2.chunk.js",
+    "index.html": "/rushikeshbhand/Text-Application-React.git/index.html",
+    "main.f855e6bc.css.map": "/rushikeshbhand/Text-Application-React.git/static/css/main.f855e6bc.css.map",
+    "main.1e00b1cc.js.map": "/rushikeshbhand/Text-Application-React.git/static/js/main.1e00b1cc.js.map",
+    "592.b31fc3b2.chunk.js.map": "/rushikeshbhand/Text-Application-React.git/static/js/592.b31fc3b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1e00b1cc.js"
+  ]
+}
