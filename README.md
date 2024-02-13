@@ -1,3 +1,5 @@
+View- ![Screenshot (62)](https://github.com/rushikeshbhand/Text-Application-React/assets/112516622/122b5833-4814-4e01-af21-7d44683e1696)
+git clone https://github.com/rushikeshbhand/Text-Application-React.git
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
